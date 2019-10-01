@@ -5,7 +5,7 @@
     <string name="nav_header_title">WebViews</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="menu_first">First</string>
     <string name="menu_second">Second</string>
     <string name="menu_third">Third</string>
+    <string name="menu_first">First</string>
 </resources>
