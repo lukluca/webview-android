@@ -1,6 +1,6 @@
 # Android WebView
 
-An example on build an Android app sharing some businnes logic using Kotlin/Native
+An example on build an Android app sharing some business logic using Kotlin/Native
 
 ## Built With
 
